@@ -1,0 +1,237 @@
+{
+  "environment": {
+    "date": "2026-11-23",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.5",
+    "pandas": "3.0.5"
+  },
+  "cold_run": {
+    "run_id": 1,
+    "status": "success",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "timings_seconds": {
+      "collect": 107.51,
+      "transform": 95.25,
+      "validate": 0.23,
+      "load": 0.86,
+      "total": 204.01
+    },
+    "load": {
+      "inserted": 16232,
+      "changed": 0,
+      "unchanged": 0
+    },
+    "analytic_hash": "46a4ac415135b5f2c9aba280e50ca24713c461ad318bcaffa606ec20f4a4773c",
+    "validation": {
+      "errors": 0,
+      "warnings": 0,
+      "checks_run": 16
+    },
+    "rows_loaded": 16232,
+    "rows_scanned": 18169564,
+    "rows_in_database": 16232,
+    "database_size_mb": 1.61
+  },
+  "repeat_run_same_database": {
+    "run_id": 2,
+    "status": "success",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "timings_seconds": {
+      "collect": 0.77,
+      "transform": 141.14,
+      "validate": 0.21,
+      "load": 6.87,
+      "total": 149.04
+    },
+    "load": {
+      "inserted": 0,
+      "changed": 0,
+      "unchanged": 16232
+    },
+    "analytic_hash": "46a4ac415135b5f2c9aba280e50ca24713c461ad318bcaffa606ec20f4a4773c",
+    "validation": {
+      "errors": 0,
+      "warnings": 0,
+      "checks_run": 16
+    },
+    "rows_loaded": 16232,
+    "rows_scanned": 18169564,
+    "rows_in_database": 16232,
+    "same_data_as_cold_run": true
+  },
+  "rebuild_from_scratch": {
+    "run_id": 1,
+    "status": "success",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "timings_seconds": {
+      "collect": 0.96,
+      "transform": 137.11,
+      "validate": 0.21,
+      "load": 0.99,
+      "total": 139.38
+    },
+    "load": {
+      "inserted": 16232,
+      "changed": 0,
+      "unchanged": 0
+    },
+    "analytic_hash": "46a4ac415135b5f2c9aba280e50ca24713c461ad318bcaffa606ec20f4a4773c",
+    "validation": {
+      "errors": 0,
+      "warnings": 0,
+      "checks_run": 16
+    },
+    "rows_loaded": 16232,
+    "rows_scanned": 18169564,
+    "rows_in_database": 16232,
+    "same_data_as_cold_run": true
+  },
+  "fault_injection": {
+    "clean_data_failed_checks": [],
+    "faults": [
+      {
+        "injected_fault": "Duplicate row",
+        "expected_check": "no_duplicate_keys",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "no_duplicate_keys"
+        ]
+      },
+      {
+        "injected_fault": "Area code that doesn't exist",
+        "expected_check": "valid_area_codes",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "valid_area_codes"
+        ]
+      },
+      {
+        "injected_fault": "Industry code that doesn't exist",
+        "expected_check": "valid_industry_codes",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "valid_industry_codes"
+        ]
+      },
+      {
+        "injected_fault": "Missing key field",
+        "expected_check": "required_fields_not_null",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "required_fields_not_null",
+          "valid_industry_codes"
+        ]
+      },
+      {
+        "injected_fault": "Suppressed value stored as zero",
+        "expected_check": "suppressed_values_are_null_not_zero",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "suppressed_values_are_null_not_zero"
+        ]
+      },
+      {
+        "injected_fault": "Negative employment",
+        "expected_check": "no_negative_measures",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "no_negative_measures"
+        ]
+      },
+      {
+        "injected_fault": "A whole year missing",
+        "expected_check": "all_years_present_with_enough_rows",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "all_years_present_with_enough_rows"
+        ]
+      },
+      {
+        "injected_fault": "One county missing in one year",
+        "expected_check": "same_counties_in_every_year",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "expected_county_counts_each_year",
+          "same_counties_in_every_year",
+          "county_totals_agree_with_state_total"
+        ]
+      },
+      {
+        "injected_fault": "County total tripled",
+        "expected_check": "county_totals_agree_with_state_total",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "county_totals_agree_with_state_total"
+        ]
+      },
+      {
+        "injected_fault": "One sector inflated above county total",
+        "expected_check": "sector_sum_not_above_county_total",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "sector_sum_not_above_county_total"
+        ]
+      },
+      {
+        "injected_fault": "Annual pay disagrees with weekly wage",
+        "expected_check": "annual_pay_matches_weekly_wage",
+        "caught_by_expected_check": true,
+        "all_checks_that_fired": [
+          "annual_pay_matches_weekly_wage"
+        ]
+      }
+    ],
+    "caught": 11,
+    "total": 11
+  },
+  "failure_scenarios": [
+    {
+      "scenario": "Year that BLS hasn't published (2099)",
+      "expected_status": "failed",
+      "actual_status": "failed",
+      "behaved_as_expected": true,
+      "database_rows_before": 16232,
+      "database_rows_after": 16232,
+      "data_unchanged": true,
+      "message": "Could not download https://data.bls.gov/cew/data/files/2099/csv/2099_annual_singlefile.zip: HTTP Error 404: Not Found"
+    },
+    {
+      "scenario": "Corrupted zip file",
+      "expected_status": "failed",
+      "actual_status": "failed",
+      "behaved_as_expected": true,
+      "database_rows_before": 16232,
+      "database_rows_after": 16232,
+      "data_unchanged": true,
+      "message": "BadZipFile: File is not a zip file"
+    },
+    {
+      "scenario": "Validation error blocks the load",
+      "expected_status": "failed_validation",
+      "actual_status": "failed_validation",
+      "behaved_as_expected": true,
+      "database_rows_before": 16232,
+      "database_rows_after": 16232,
+      "data_unchanged": true,
+      "message": "{\"errors\": 1, \"warnings\": 0, \"checks_run\": 16}"
+    }
+  ]
+}

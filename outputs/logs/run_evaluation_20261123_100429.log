@@ -1,0 +1,139 @@
+10:04:30  INFO    reference table area: 9458 rows
+10:04:30  INFO    reference table industry: 2678 rows
+10:04:30  INFO    reference table ownership: 8 rows
+10:04:30  INFO    reference table agglevel: 56 rows
+10:04:30  INFO    === run 1 started for years [2020, 2021, 2022, 2023, 2024] ===
+10:04:31  INFO    reference table area: 9458 rows
+10:04:31  INFO    reference table industry: 2678 rows
+10:04:31  INFO    reference table ownership: 8 rows
+10:04:31  INFO    reference table agglevel: 56 rows
+10:04:31  INFO    2020: downloading (attempt 1 of 3) https://data.bls.gov/cew/data/files/2020/csv/2020_annual_singlefile.zip
+10:04:50  INFO    2021: downloading (attempt 1 of 3) https://data.bls.gov/cew/data/files/2021/csv/2021_annual_singlefile.zip
+10:05:10  INFO    2022: downloading (attempt 1 of 3) https://data.bls.gov/cew/data/files/2022/csv/2022_annual_singlefile.zip
+10:05:33  INFO    2023: downloading (attempt 1 of 3) https://data.bls.gov/cew/data/files/2023/csv/2023_annual_singlefile.zip
+10:05:57  INFO    2024: downloading (attempt 1 of 3) https://data.bls.gov/cew/data/files/2024/csv/2024_annual_singlefile.zip
+10:06:31  INFO    2020_annual_singlefile.zip: scanned 3,602,760 rows, kept 3,222
+10:06:45  INFO    2021_annual_singlefile.zip: scanned 3,631,807 rows, kept 3,227
+10:06:59  INFO    2022_annual_singlefile.zip: scanned 3,619,437 rows, kept 3,250
+10:07:22  INFO    2023_annual_singlefile.zip: scanned 3,650,651 rows, kept 3,278
+10:07:52  INFO    2024_annual_singlefile.zip: scanned 3,664,909 rows, kept 3,255
+10:07:53  INFO    check PASS all_years_present_with_enough_rows         all 5 years present
+10:07:53  INFO    check PASS required_fields_not_null                   ok
+10:07:53  INFO    check PASS no_duplicate_keys                          ok
+10:07:53  INFO    check PASS valid_area_codes                           ok
+10:07:53  INFO    check PASS valid_industry_codes                       ok
+10:07:53  INFO    check PASS valid_ownership_codes                      ok
+10:07:53  INFO    check PASS areas_inside_requested_states              ok
+10:07:53  INFO    check PASS years_inside_requested_range               ok
+10:07:53  INFO    check PASS suppressed_values_are_null_not_zero        ok
+10:07:53  INFO    check PASS suppression_rate                           4,084 of 16,232 rows suppressed (25.2%)
+10:07:53  INFO    check PASS no_negative_measures                       ok
+10:07:53  INFO    check PASS annual_pay_matches_weekly_wage             ok
+10:07:53  INFO    check PASS expected_county_counts_each_year           county counts match expectations every year
+10:07:53  INFO    check PASS same_counties_in_every_year                same counties appear in every year
+10:07:53  INFO    check PASS county_totals_agree_with_state_total       all 15 state-years within 2% (worst gap 0.00%)
+10:07:53  INFO    check PASS sector_sum_not_above_county_total          checked 805 county-years; none above the county total
+10:07:54  INFO    === run 1 finished: 16,232 inserted, 0 changed, 0 unchanged (204.0s) ===
+10:07:54  INFO    === run 2 started for years [2020, 2021, 2022, 2023, 2024] ===
+10:07:54  INFO    2020: already on disk, reusing 2020_annual_singlefile.zip
+10:07:54  INFO    2021: already on disk, reusing 2021_annual_singlefile.zip
+10:07:54  INFO    2022: already on disk, reusing 2022_annual_singlefile.zip
+10:07:54  INFO    2023: already on disk, reusing 2023_annual_singlefile.zip
+10:07:54  INFO    2024: already on disk, reusing 2024_annual_singlefile.zip
+10:08:22  INFO    2020_annual_singlefile.zip: scanned 3,602,760 rows, kept 3,222
+10:08:49  INFO    2021_annual_singlefile.zip: scanned 3,631,807 rows, kept 3,227
+10:09:15  INFO    2022_annual_singlefile.zip: scanned 3,619,437 rows, kept 3,250
+10:09:44  INFO    2023_annual_singlefile.zip: scanned 3,650,651 rows, kept 3,278
+10:10:16  INFO    2024_annual_singlefile.zip: scanned 3,664,909 rows, kept 3,255
+10:10:16  INFO    check PASS all_years_present_with_enough_rows         all 5 years present
+10:10:16  INFO    check PASS required_fields_not_null                   ok
+10:10:16  INFO    check PASS no_duplicate_keys                          ok
+10:10:16  INFO    check PASS valid_area_codes                           ok
+10:10:16  INFO    check PASS valid_industry_codes                       ok
+10:10:16  INFO    check PASS valid_ownership_codes                      ok
+10:10:16  INFO    check PASS areas_inside_requested_states              ok
+10:10:16  INFO    check PASS years_inside_requested_range               ok
+10:10:16  INFO    check PASS suppressed_values_are_null_not_zero        ok
+10:10:16  INFO    check PASS suppression_rate                           4,084 of 16,232 rows suppressed (25.2%)
+10:10:16  INFO    check PASS no_negative_measures                       ok
+10:10:16  INFO    check PASS annual_pay_matches_weekly_wage             ok
+10:10:16  INFO    check PASS expected_county_counts_each_year           county counts match expectations every year
+10:10:16  INFO    check PASS same_counties_in_every_year                same counties appear in every year
+10:10:16  INFO    check PASS county_totals_agree_with_state_total       all 15 state-years within 2% (worst gap 0.00%)
+10:10:16  INFO    check PASS sector_sum_not_above_county_total          checked 805 county-years; none above the county total
+10:10:23  INFO    === run 2 finished: 0 inserted, 0 changed, 16,232 unchanged (149.0s) ===
+10:10:23  INFO    === run 1 started for years [2020, 2021, 2022, 2023, 2024] ===
+10:10:23  INFO    2020: already on disk, reusing 2020_annual_singlefile.zip
+10:10:23  INFO    2021: already on disk, reusing 2021_annual_singlefile.zip
+10:10:23  INFO    2022: already on disk, reusing 2022_annual_singlefile.zip
+10:10:23  INFO    2023: already on disk, reusing 2023_annual_singlefile.zip
+10:10:24  INFO    2024: already on disk, reusing 2024_annual_singlefile.zip
+10:10:51  INFO    2020_annual_singlefile.zip: scanned 3,602,760 rows, kept 3,222
+10:11:17  INFO    2021_annual_singlefile.zip: scanned 3,631,807 rows, kept 3,227
+10:11:44  INFO    2022_annual_singlefile.zip: scanned 3,619,437 rows, kept 3,250
+10:12:10  INFO    2023_annual_singlefile.zip: scanned 3,650,651 rows, kept 3,278
+10:12:41  INFO    2024_annual_singlefile.zip: scanned 3,664,909 rows, kept 3,255
+10:12:41  INFO    check PASS all_years_present_with_enough_rows         all 5 years present
+10:12:41  INFO    check PASS required_fields_not_null                   ok
+10:12:41  INFO    check PASS no_duplicate_keys                          ok
+10:12:41  INFO    check PASS valid_area_codes                           ok
+10:12:41  INFO    check PASS valid_industry_codes                       ok
+10:12:41  INFO    check PASS valid_ownership_codes                      ok
+10:12:41  INFO    check PASS areas_inside_requested_states              ok
+10:12:41  INFO    check PASS years_inside_requested_range               ok
+10:12:41  INFO    check PASS suppressed_values_are_null_not_zero        ok
+10:12:41  INFO    check PASS suppression_rate                           4,084 of 16,232 rows suppressed (25.2%)
+10:12:41  INFO    check PASS no_negative_measures                       ok
+10:12:41  INFO    check PASS annual_pay_matches_weekly_wage             ok
+10:12:41  INFO    check PASS expected_county_counts_each_year           county counts match expectations every year
+10:12:41  INFO    check PASS same_counties_in_every_year                same counties appear in every year
+10:12:41  INFO    check PASS county_totals_agree_with_state_total       all 15 state-years within 2% (worst gap 0.00%)
+10:12:41  INFO    check PASS sector_sum_not_above_county_total          checked 805 county-years; none above the county total
+10:12:42  INFO    === run 1 finished: 16,232 inserted, 0 changed, 0 unchanged (139.4s) ===
+10:12:45  INFO    === run 2 started for years [2099] ===
+10:12:45  INFO    2099: downloading (attempt 1 of 1) https://data.bls.gov/cew/data/files/2099/csv/2099_annual_singlefile.zip
+10:12:45  ERROR   Download problem: Could not download https://data.bls.gov/cew/data/files/2099/csv/2099_annual_singlefile.zip: HTTP Error 404: Not Found
+10:12:46  INFO    === run 3 started for years [2020] ===
+10:12:46  INFO    2020: already on disk, reusing 2020_annual_singlefile.zip
+10:12:46  ERROR   Unexpected failure
+Traceback (most recent call last):
+  File "C:\Users\oseia\OneDrive - Northern Arizona University\Managed Analytics\ASU_2\qcew_pipeline\run.py", line 68, in run_pipeline
+    raw, stats = transform.read_year(info["local_path"], cfg)
+                 ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oseia\OneDrive - Northern Arizona University\Managed Analytics\ASU_2\qcew_pipeline\transform.py", line 69, in read_year
+    with zipfile.ZipFile(zip_path) as z:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\oseia\AppData\Local\Python\pythoncore-3.14-64\Lib\zipfile\__init__.py", line 1472, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\oseia\AppData\Local\Python\pythoncore-3.14-64\Lib\zipfile\__init__.py", line 1539, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+10:12:46  INFO    === run 4 started for years [2020, 2021, 2022, 2023, 2024] ===
+10:12:46  INFO    2020: already on disk, reusing 2020_annual_singlefile.zip
+10:12:46  INFO    2021: already on disk, reusing 2021_annual_singlefile.zip
+10:12:46  INFO    2022: already on disk, reusing 2022_annual_singlefile.zip
+10:12:47  INFO    2023: already on disk, reusing 2023_annual_singlefile.zip
+10:12:47  INFO    2024: already on disk, reusing 2024_annual_singlefile.zip
+10:13:13  INFO    2020_annual_singlefile.zip: scanned 3,602,760 rows, kept 3,222
+10:13:37  INFO    2021_annual_singlefile.zip: scanned 3,631,807 rows, kept 3,227
+10:14:01  INFO    2022_annual_singlefile.zip: scanned 3,619,437 rows, kept 3,250
+10:14:24  INFO    2023_annual_singlefile.zip: scanned 3,650,651 rows, kept 3,278
+10:14:48  INFO    2024_annual_singlefile.zip: scanned 3,664,909 rows, kept 3,255
+10:14:48  INFO    check FAIL all_years_present_with_enough_rows         Years missing or too small (< 10000000 rows): [2020, 2021, 2022, 2023, 2024]
+10:14:48  INFO    check PASS required_fields_not_null                   ok
+10:14:48  INFO    check PASS no_duplicate_keys                          ok
+10:14:48  INFO    check PASS valid_area_codes                           ok
+10:14:48  INFO    check PASS valid_industry_codes                       ok
+10:14:48  INFO    check PASS valid_ownership_codes                      ok
+10:14:48  INFO    check PASS areas_inside_requested_states              ok
+10:14:48  INFO    check PASS years_inside_requested_range               ok
+10:14:48  INFO    check PASS suppressed_values_are_null_not_zero        ok
+10:14:48  INFO    check PASS suppression_rate                           4,084 of 16,232 rows suppressed (25.2%)
+10:14:48  INFO    check PASS no_negative_measures                       ok
+10:14:48  INFO    check PASS annual_pay_matches_weekly_wage             ok
+10:14:48  INFO    check PASS expected_county_counts_each_year           county counts match expectations every year
+10:14:48  INFO    check PASS same_counties_in_every_year                same counties appear in every year
+10:14:48  INFO    check PASS county_totals_agree_with_state_total       all 15 state-years within 2% (worst gap 0.00%)
+10:14:48  INFO    check PASS sector_sum_not_above_county_total          checked 805 county-years; none above the county total
+10:14:48  ERROR   Validation found 1 error(s). Nothing was loaded.

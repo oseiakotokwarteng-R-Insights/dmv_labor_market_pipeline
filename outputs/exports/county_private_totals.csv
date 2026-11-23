@@ -1,0 +1,791 @@
+year,state_fips,area_fips,area_title,establishments,employment,avg_weekly_wage,is_suppressed
+2020,11,11001,"District of Columbia, not unknown",42124.0,487254.0,1962.0,0
+2021,11,11001,"District of Columbia, not unknown",43977.0,485530.0,2081.0,0
+2022,11,11001,"District of Columbia, not unknown",48156.0,514413.0,2104.0,0
+2023,11,11001,"District of Columbia, not unknown",51111.0,525505.0,2155.0,0
+2024,11,11001,"District of Columbia, not unknown",51848.0,524190.0,2269.0,0
+2020,24,24001,"Allegany County, Maryland",1428.0,20294.0,776.0,0
+2021,24,24001,"Allegany County, Maryland",1423.0,20834.0,799.0,0
+2022,24,24001,"Allegany County, Maryland",1458.0,21483.0,825.0,0
+2023,24,24001,"Allegany County, Maryland",1486.0,20824.0,876.0,0
+2024,24,24001,"Allegany County, Maryland",1494.0,20723.0,912.0,0
+2020,24,24003,"Anne Arundel County, Maryland",15074.0,209073.0,1288.0,0
+2021,24,24003,"Anne Arundel County, Maryland",15160.0,216380.0,1338.0,0
+2022,24,24003,"Anne Arundel County, Maryland",15828.0,223936.0,1366.0,0
+2023,24,24003,"Anne Arundel County, Maryland",16202.0,228083.0,1407.0,0
+2024,24,24003,"Anne Arundel County, Maryland",15594.0,237740.0,1503.0,0
+2020,24,24005,"Baltimore County, Maryland",20877.0,297528.0,1177.0,0
+2021,24,24005,"Baltimore County, Maryland",20890.0,306014.0,1220.0,0
+2022,24,24005,"Baltimore County, Maryland",21906.0,313692.0,1258.0,0
+2023,24,24005,"Baltimore County, Maryland",22451.0,313638.0,1277.0,0
+2024,24,24005,"Baltimore County, Maryland",22918.0,318547.0,1321.0,0
+2020,24,24009,"Calvert County, Maryland",1800.0,16707.0,1013.0,0
+2021,24,24009,"Calvert County, Maryland",1762.0,17108.0,1030.0,0
+2022,24,24009,"Calvert County, Maryland",1835.0,16927.0,1087.0,0
+2023,24,24009,"Calvert County, Maryland",1878.0,17232.0,1166.0,0
+2024,24,24009,"Calvert County, Maryland",1952.0,17699.0,1124.0,0
+2020,24,24011,"Caroline County, Maryland",631.0,7577.0,909.0,0
+2021,24,24011,"Caroline County, Maryland",620.0,8075.0,971.0,0
+2022,24,24011,"Caroline County, Maryland",652.0,7906.0,983.0,0
+2023,24,24011,"Caroline County, Maryland",680.0,7742.0,1028.0,0
+2024,24,24011,"Caroline County, Maryland",689.0,7421.0,1016.0,0
+2020,24,24013,"Carroll County, Maryland",4424.0,46477.0,927.0,0
+2021,24,24013,"Carroll County, Maryland",4409.0,47410.0,945.0,0
+2022,24,24013,"Carroll County, Maryland",4539.0,48389.0,991.0,0
+2023,24,24013,"Carroll County, Maryland",4461.0,49128.0,1032.0,0
+2024,24,24013,"Carroll County, Maryland",4403.0,50406.0,1069.0,0
+2020,24,24015,"Cecil County, Maryland",1848.0,26859.0,966.0,0
+2021,24,24015,"Cecil County, Maryland",1800.0,28588.0,891.0,0
+2022,24,24015,"Cecil County, Maryland",1938.0,27685.0,996.0,0
+2023,24,24015,"Cecil County, Maryland",1899.0,28742.0,1053.0,0
+2024,24,24015,"Cecil County, Maryland",1882.0,29032.0,1080.0,0
+2020,24,24017,"Charles County, Maryland",2837.0,28502.0,873.0,0
+2021,24,24017,"Charles County, Maryland",2835.0,29426.0,927.0,0
+2022,24,24017,"Charles County, Maryland",2950.0,29856.0,964.0,0
+2023,24,24017,"Charles County, Maryland",3035.0,29859.0,970.0,0
+2024,24,24017,"Charles County, Maryland",3148.0,31045.0,998.0,0
+2020,24,24019,"Dorchester County, Maryland",677.0,9521.0,817.0,0
+2021,24,24019,"Dorchester County, Maryland",676.0,9852.0,842.0,0
+2022,24,24019,"Dorchester County, Maryland",713.0,9838.0,888.0,0
+2023,24,24019,"Dorchester County, Maryland",732.0,9402.0,886.0,0
+2024,24,24019,"Dorchester County, Maryland",750.0,9482.0,923.0,0
+2020,24,24021,"Frederick County, Maryland",6418.0,81884.0,1072.0,0
+2021,24,24021,"Frederick County, Maryland",6372.0,84101.0,1116.0,0
+2022,24,24021,"Frederick County, Maryland",6639.0,85976.0,1179.0,0
+2023,24,24021,"Frederick County, Maryland",7068.0,88630.0,1235.0,0
+2024,24,24021,"Frederick County, Maryland",6983.0,89951.0,1290.0,0
+2020,24,24023,"Garrett County, Maryland",882.0,9698.0,718.0,0
+2021,24,24023,"Garrett County, Maryland",913.0,10183.0,745.0,0
+2022,24,24023,"Garrett County, Maryland",964.0,9938.0,795.0,0
+2023,24,24023,"Garrett County, Maryland",1027.0,10027.0,850.0,0
+2024,24,24023,"Garrett County, Maryland",1104.0,10482.0,917.0,0
+2020,24,24025,"Harford County, Maryland",5791.0,69098.0,1003.0,0
+2021,24,24025,"Harford County, Maryland",5769.0,71281.0,1025.0,0
+2022,24,24025,"Harford County, Maryland",6029.0,71393.0,1072.0,0
+2023,24,24025,"Harford County, Maryland",6173.0,73473.0,1116.0,0
+2024,24,24025,"Harford County, Maryland",6030.0,74154.0,1144.0,0
+2020,24,24027,"Howard County, Maryland",10039.0,145083.0,1552.0,0
+2021,24,24027,"Howard County, Maryland",10121.0,146833.0,1605.0,0
+2022,24,24027,"Howard County, Maryland",10584.0,148249.0,1596.0,0
+2023,24,24027,"Howard County, Maryland",10859.0,151376.0,1643.0,0
+2024,24,24027,"Howard County, Maryland",11175.0,154553.0,1678.0,0
+2020,24,24029,"Kent County, Maryland",669.0,6165.0,851.0,0
+2021,24,24029,"Kent County, Maryland",682.0,6326.0,867.0,0
+2022,24,24029,"Kent County, Maryland",721.0,6502.0,922.0,0
+2023,24,24029,"Kent County, Maryland",727.0,6517.0,968.0,0
+2024,24,24029,"Kent County, Maryland",716.0,6550.0,990.0,0
+2020,24,24031,"Montgomery County, Maryland",32388.0,348128.0,1550.0,0
+2021,24,24031,"Montgomery County, Maryland",32740.0,354877.0,1679.0,0
+2022,24,24031,"Montgomery County, Maryland",34118.0,359551.0,1653.0,0
+2023,24,24031,"Montgomery County, Maryland",34337.0,364740.0,1688.0,0
+2024,24,24031,"Montgomery County, Maryland",35038.0,367114.0,1724.0,0
+2020,24,24033,"Prince George's County, Maryland",15969.0,207663.0,1104.0,0
+2021,24,24033,"Prince George's County, Maryland",15979.0,213423.0,1128.0,0
+2022,24,24033,"Prince George's County, Maryland",17026.0,218495.0,1169.0,0
+2023,24,24033,"Prince George's County, Maryland",17559.0,223535.0,1203.0,0
+2024,24,24033,"Prince George's County, Maryland",18309.0,231626.0,1226.0,0
+2020,24,24035,"Queen Anne's County, Maryland",1423.0,11819.0,848.0,0
+2021,24,24035,"Queen Anne's County, Maryland",1437.0,12411.0,977.0,0
+2022,24,24035,"Queen Anne's County, Maryland",1504.0,12524.0,973.0,0
+2023,24,24035,"Queen Anne's County, Maryland",1525.0,12926.0,1020.0,0
+2024,24,24035,"Queen Anne's County, Maryland",1570.0,13520.0,1054.0,0
+2020,24,24037,"St. Mary's County, Maryland",2076.0,30368.0,1261.0,0
+2021,24,24037,"St. Mary's County, Maryland",2046.0,31341.0,1253.0,0
+2022,24,24037,"St. Mary's County, Maryland",2153.0,30596.0,1321.0,0
+2023,24,24037,"St. Mary's County, Maryland",2124.0,32026.0,1371.0,0
+2024,24,24037,"St. Mary's County, Maryland",2068.0,33252.0,1445.0,0
+2020,24,24039,"Somerset County, Maryland",423.0,3392.0,886.0,0
+2021,24,24039,"Somerset County, Maryland",402.0,3289.0,932.0,0
+2022,24,24039,"Somerset County, Maryland",405.0,3700.0,931.0,0
+2023,24,24039,"Somerset County, Maryland",405.0,3662.0,922.0,0
+2024,24,24039,"Somerset County, Maryland",415.0,3873.0,939.0,0
+2020,24,24041,"Talbot County, Maryland",1496.0,14397.0,871.0,0
+2021,24,24041,"Talbot County, Maryland",1450.0,14624.0,912.0,0
+2022,24,24041,"Talbot County, Maryland",1520.0,15034.0,965.0,0
+2023,24,24041,"Talbot County, Maryland",1537.0,15950.0,1022.0,0
+2024,24,24041,"Talbot County, Maryland",1550.0,16130.0,1062.0,0
+2020,24,24043,"Washington County, Maryland",3346.0,51890.0,914.0,0
+2021,24,24043,"Washington County, Maryland",3285.0,53959.0,950.0,0
+2022,24,24043,"Washington County, Maryland",3412.0,54149.0,983.0,0
+2023,24,24043,"Washington County, Maryland",3490.0,54247.0,1028.0,0
+2024,24,24043,"Washington County, Maryland",3587.0,55515.0,1086.0,0
+2020,24,24045,"Wicomico County, Maryland",2495.0,35238.0,921.0,0
+2021,24,24045,"Wicomico County, Maryland",2464.0,36401.0,953.0,0
+2022,24,24045,"Wicomico County, Maryland",2528.0,37473.0,1000.0,0
+2023,24,24045,"Wicomico County, Maryland",2500.0,37414.0,1048.0,0
+2024,24,24045,"Wicomico County, Maryland",2572.0,37786.0,1087.0,0
+2020,24,24047,"Worcester County, Maryland",2128.0,18830.0,699.0,0
+2021,24,24047,"Worcester County, Maryland",2154.0,20892.0,733.0,0
+2022,24,24047,"Worcester County, Maryland",2205.0,20506.0,775.0,0
+2023,24,24047,"Worcester County, Maryland",2273.0,21611.0,801.0,0
+2024,24,24047,"Worcester County, Maryland",2385.0,22633.0,827.0,0
+2020,24,24510,"Baltimore City, Maryland",13297.0,260097.0,1406.0,0
+2021,24,24510,"Baltimore City, Maryland",13150.0,264404.0,1456.0,0
+2022,24,24510,"Baltimore City, Maryland",13848.0,268420.0,1483.0,0
+2023,24,24510,"Baltimore City, Maryland",14064.0,269861.0,1522.0,0
+2024,24,24510,"Baltimore City, Maryland",14428.0,270536.0,1568.0,0
+2020,51,51001,"Accomack County, Virginia",973.0,9410.0,816.0,0
+2021,51,51001,"Accomack County, Virginia",961.0,9160.0,869.0,0
+2022,51,51001,"Accomack County, Virginia",1381.0,9439.0,919.0,0
+2023,51,51001,"Accomack County, Virginia",1376.0,9880.0,933.0,0
+2024,51,51001,"Accomack County, Virginia",1164.0,10418.0,971.0,0
+2020,51,51003,"Albemarle County, Virginia",3678.0,36047.0,1023.0,0
+2021,51,51003,"Albemarle County, Virginia",3850.0,37329.0,1113.0,0
+2022,51,51003,"Albemarle County, Virginia",4313.0,39115.0,1160.0,0
+2023,51,51003,"Albemarle County, Virginia",4248.0,40379.0,1228.0,0
+2024,51,51003,"Albemarle County, Virginia",4102.0,41112.0,1259.0,0
+2020,51,51005,"Alleghany County, Virginia",301.0,2450.0,719.0,0
+2021,51,51005,"Alleghany County, Virginia",318.0,2427.0,757.0,0
+2022,51,51005,"Alleghany County, Virginia",436.0,2515.0,832.0,0
+2023,51,51005,"Alleghany County, Virginia",468.0,2524.0,853.0,0
+2024,51,51005,"Alleghany County, Virginia",428.0,2474.0,879.0,0
+2020,51,51007,"Amelia County, Virginia",380.0,2008.0,759.0,0
+2021,51,51007,"Amelia County, Virginia",376.0,2028.0,813.0,0
+2022,51,51007,"Amelia County, Virginia",422.0,2036.0,831.0,0
+2023,51,51007,"Amelia County, Virginia",408.0,2051.0,881.0,0
+2024,51,51007,"Amelia County, Virginia",388.0,1994.0,906.0,0
+2020,51,51009,"Amherst County, Virginia",730.0,6011.0,785.0,0
+2021,51,51009,"Amherst County, Virginia",740.0,6134.0,785.0,0
+2022,51,51009,"Amherst County, Virginia",834.0,6230.0,832.0,0
+2023,51,51009,"Amherst County, Virginia",793.0,6302.0,863.0,0
+2024,51,51009,"Amherst County, Virginia",754.0,6595.0,908.0,0
+2020,51,51011,"Appomattox County, Virginia",463.0,2457.0,597.0,0
+2021,51,51011,"Appomattox County, Virginia",454.0,2540.0,652.0,0
+2022,51,51011,"Appomattox County, Virginia",553.0,2636.0,708.0,0
+2023,51,51011,"Appomattox County, Virginia",554.0,2742.0,730.0,0
+2024,51,51011,"Appomattox County, Virginia",508.0,2743.0,760.0,0
+2020,51,51013,"Arlington County, Virginia",8954.0,133216.0,1984.0,0
+2021,51,51013,"Arlington County, Virginia",9261.0,133625.0,2031.0,0
+2022,51,51013,"Arlington County, Virginia",10195.0,136317.0,2143.0,0
+2023,51,51013,"Arlington County, Virginia",9739.0,140969.0,2262.0,0
+2024,51,51013,"Arlington County, Virginia",9435.0,140502.0,2361.0,0
+2020,51,51015,"Augusta County, Virginia",1820.0,22833.0,959.0,0
+2021,51,51015,"Augusta County, Virginia",1870.0,23091.0,1012.0,0
+2022,51,51015,"Augusta County, Virginia",2020.0,24356.0,1076.0,0
+2023,51,51015,"Augusta County, Virginia",1974.0,25207.0,1129.0,0
+2024,51,51015,"Augusta County, Virginia",1928.0,25302.0,1171.0,0
+2020,51,51017,"Bath County, Virginia",149.0,1438.0,911.0,0
+2021,51,51017,"Bath County, Virginia",152.0,1525.0,960.0,0
+2022,51,51017,"Bath County, Virginia",293.0,1740.0,1005.0,0
+2023,51,51017,"Bath County, Virginia",304.0,1754.0,1055.0,0
+2024,51,51017,"Bath County, Virginia",232.0,1873.0,1128.0,0
+2020,51,51019,"Bedford County, Virginia",2166.0,15116.0,780.0,0
+2021,51,51019,"Bedford County, Virginia",2200.0,15211.0,807.0,0
+2022,51,51019,"Bedford County, Virginia",2382.0,15171.0,862.0,0
+2023,51,51019,"Bedford County, Virginia",2291.0,15524.0,930.0,0
+2024,51,51019,"Bedford County, Virginia",2221.0,15472.0,935.0,0
+2020,51,51021,"Bland County, Virginia",101.0,1263.0,976.0,0
+2021,51,51021,"Bland County, Virginia",102.0,1254.0,989.0,0
+2022,51,51021,"Bland County, Virginia",194.0,1240.0,1099.0,0
+2023,51,51021,"Bland County, Virginia",191.0,1265.0,1219.0,0
+2024,51,51021,"Bland County, Virginia",134.0,1335.0,1229.0,0
+2020,51,51023,"Botetourt County, Virginia",811.0,9055.0,874.0,0
+2021,51,51023,"Botetourt County, Virginia",846.0,9171.0,916.0,0
+2022,51,51023,"Botetourt County, Virginia",966.0,9349.0,1004.0,0
+2023,51,51023,"Botetourt County, Virginia",965.0,9838.0,1078.0,0
+2024,51,51023,"Botetourt County, Virginia",918.0,10073.0,1148.0,0
+2020,51,51025,"Brunswick County, Virginia",520.0,2421.0,721.0,0
+2021,51,51025,"Brunswick County, Virginia",523.0,2259.0,795.0,0
+2022,51,51025,"Brunswick County, Virginia",659.0,2291.0,896.0,0
+2023,51,51025,"Brunswick County, Virginia",588.0,2339.0,930.0,0
+2024,51,51025,"Brunswick County, Virginia",472.0,2404.0,998.0,0
+2020,51,51027,"Buchanan County, Virginia",473.0,4211.0,1012.0,0
+2021,51,51027,"Buchanan County, Virginia",468.0,4093.0,1054.0,0
+2022,51,51027,"Buchanan County, Virginia",587.0,4293.0,1152.0,0
+2023,51,51027,"Buchanan County, Virginia",570.0,4466.0,1290.0,0
+2024,51,51027,"Buchanan County, Virginia",496.0,4484.0,1302.0,0
+2020,51,51029,"Buckingham County, Virginia",404.0,1856.0,774.0,0
+2021,51,51029,"Buckingham County, Virginia",416.0,1785.0,800.0,0
+2022,51,51029,"Buckingham County, Virginia",534.0,1790.0,860.0,0
+2023,51,51029,"Buckingham County, Virginia",535.0,1804.0,896.0,0
+2024,51,51029,"Buckingham County, Virginia",474.0,1878.0,945.0,0
+2020,51,51031,"Campbell County, Virginia",1438.0,14573.0,1002.0,0
+2021,51,51031,"Campbell County, Virginia",1477.0,14895.0,1032.0,0
+2022,51,51031,"Campbell County, Virginia",1924.0,15444.0,1064.0,0
+2023,51,51031,"Campbell County, Virginia",1919.0,15852.0,1095.0,0
+2024,51,51031,"Campbell County, Virginia",1750.0,16084.0,1143.0,0
+2020,51,51033,"Caroline County, Virginia",560.0,4015.0,781.0,0
+2021,51,51033,"Caroline County, Virginia",578.0,3962.0,836.0,0
+2022,51,51033,"Caroline County, Virginia",797.0,3911.0,870.0,0
+2023,51,51033,"Caroline County, Virginia",807.0,4404.0,872.0,0
+2024,51,51033,"Caroline County, Virginia",712.0,4811.0,880.0,0
+2020,51,51035,"Carroll County, Virginia",566.0,4620.0,607.0,0
+2021,51,51035,"Carroll County, Virginia",582.0,4727.0,657.0,0
+2022,51,51035,"Carroll County, Virginia",703.0,4648.0,692.0,0
+2023,51,51035,"Carroll County, Virginia",688.0,4540.0,723.0,0
+2024,51,51035,"Carroll County, Virginia",616.0,4428.0,748.0,0
+2020,51,51036,"Charles City County, Virginia",210.0,1329.0,980.0,0
+2021,51,51036,"Charles City County, Virginia",210.0,1271.0,1000.0,0
+2022,51,51036,"Charles City County, Virginia",226.0,1363.0,1086.0,0
+2023,51,51036,"Charles City County, Virginia",223.0,1344.0,1119.0,0
+2024,51,51036,"Charles City County, Virginia",219.0,1377.0,1173.0,0
+2020,51,51037,"Charlotte County, Virginia",311.0,1833.0,726.0,0
+2021,51,51037,"Charlotte County, Virginia",315.0,1906.0,755.0,0
+2022,51,51037,"Charlotte County, Virginia",606.0,1964.0,849.0,0
+2023,51,51037,"Charlotte County, Virginia",688.0,1983.0,876.0,0
+2024,51,51037,"Charlotte County, Virginia",506.0,1871.0,903.0,0
+2020,51,51041,"Chesterfield County, Virginia",9328.0,111072.0,995.0,0
+2021,51,51041,"Chesterfield County, Virginia",9738.0,115045.0,1038.0,0
+2022,51,51041,"Chesterfield County, Virginia",10623.0,118864.0,1103.0,0
+2023,51,51041,"Chesterfield County, Virginia",10352.0,120509.0,1152.0,0
+2024,51,51041,"Chesterfield County, Virginia",10176.0,122859.0,1188.0,0
+2020,51,51043,"Clarke County, Virginia",429.0,3005.0,879.0,0
+2021,51,51043,"Clarke County, Virginia",437.0,2998.0,932.0,0
+2022,51,51043,"Clarke County, Virginia",535.0,3154.0,976.0,0
+2023,51,51043,"Clarke County, Virginia",511.0,3149.0,1046.0,0
+2024,51,51043,"Clarke County, Virginia",467.0,3180.0,1079.0,0
+2020,51,51045,"Craig County, Virginia",108.0,462.0,724.0,0
+2021,51,51045,"Craig County, Virginia",112.0,480.0,793.0,0
+2022,51,51045,"Craig County, Virginia",150.0,518.0,857.0,0
+2023,51,51045,"Craig County, Virginia",142.0,544.0,900.0,0
+2024,51,51045,"Craig County, Virginia",131.0,506.0,1110.0,0
+2020,51,51047,"Culpeper County, Virginia",1366.0,12241.0,892.0,0
+2021,51,51047,"Culpeper County, Virginia",1431.0,12675.0,939.0,0
+2022,51,51047,"Culpeper County, Virginia",1573.0,13015.0,975.0,0
+2023,51,51047,"Culpeper County, Virginia",1511.0,13143.0,999.0,0
+2024,51,51047,"Culpeper County, Virginia",1476.0,12878.0,1070.0,0
+2020,51,51049,"Cumberland County, Virginia",210.0,792.0,672.0,0
+2021,51,51049,"Cumberland County, Virginia",212.0,808.0,792.0,0
+2022,51,51049,"Cumberland County, Virginia",272.0,834.0,884.0,0
+2023,51,51049,"Cumberland County, Virginia",262.0,826.0,829.0,0
+2024,51,51049,"Cumberland County, Virginia",233.0,944.0,877.0,0
+2020,51,51051,"Dickenson County, Virginia",268.0,2389.0,869.0,0
+2021,51,51051,"Dickenson County, Virginia",266.0,2511.0,934.0,0
+2022,51,51051,"Dickenson County, Virginia",313.0,2300.0,1132.0,0
+2023,51,51051,"Dickenson County, Virginia",301.0,2393.0,1175.0,0
+2024,51,51051,"Dickenson County, Virginia",270.0,2428.0,1129.0,0
+2020,51,51053,"Dinwiddie County, Virginia",433.0,6429.0,1021.0,0
+2021,51,51053,"Dinwiddie County, Virginia",441.0,6309.0,1130.0,0
+2022,51,51053,"Dinwiddie County, Virginia",559.0,6626.0,1311.0,0
+2023,51,51053,"Dinwiddie County, Virginia",554.0,7247.0,1392.0,0
+2024,51,51053,"Dinwiddie County, Virginia",522.0,7899.0,1353.0,0
+2020,51,51057,"Essex County, Virginia",325.0,2947.0,734.0,0
+2021,51,51057,"Essex County, Virginia",335.0,2941.0,763.0,0
+2022,51,51057,"Essex County, Virginia",416.0,2975.0,826.0,0
+2023,51,51057,"Essex County, Virginia",418.0,3068.0,844.0,0
+2024,51,51057,"Essex County, Virginia",381.0,3033.0,875.0,0
+2020,51,51059,"Fairfax County, Virginia",36578.0,512127.0,1913.0,0
+2021,51,51059,"Fairfax County, Virginia",37721.0,524967.0,1984.0,0
+2022,51,51059,"Fairfax County, Virginia",40882.0,539243.0,2042.0,0
+2023,51,51059,"Fairfax County, Virginia",39499.0,544515.0,2115.0,0
+2024,51,51059,"Fairfax County, Virginia",38650.0,549996.0,2250.0,0
+2020,51,51061,"Fauquier County, Virginia",2358.0,17160.0,1014.0,0
+2021,51,51061,"Fauquier County, Virginia",2435.0,17583.0,1071.0,0
+2022,51,51061,"Fauquier County, Virginia",2818.0,18054.0,1143.0,0
+2023,51,51061,"Fauquier County, Virginia",2721.0,18587.0,1157.0,0
+2024,51,51061,"Fauquier County, Virginia",2562.0,19395.0,1199.0,0
+2020,51,51063,"Floyd County, Virginia",448.0,2724.0,630.0,0
+2021,51,51063,"Floyd County, Virginia",456.0,2850.0,649.0,0
+2022,51,51063,"Floyd County, Virginia",529.0,2920.0,726.0,0
+2023,51,51063,"Floyd County, Virginia",520.0,2932.0,762.0,0
+2024,51,51063,"Floyd County, Virginia",498.0,3078.0,795.0,0
+2020,51,51065,"Fluvanna County, Virginia",572.0,2827.0,849.0,0
+2021,51,51065,"Fluvanna County, Virginia",606.0,3123.0,883.0,0
+2022,51,51065,"Fluvanna County, Virginia",693.0,3570.0,1030.0,0
+2023,51,51065,"Fluvanna County, Virginia",646.0,3735.0,1115.0,0
+2024,51,51065,"Fluvanna County, Virginia",640.0,3493.0,1107.0,0
+2020,51,51067,"Franklin County, Virginia",1448.0,12495.0,716.0,0
+2021,51,51067,"Franklin County, Virginia",1475.0,12871.0,760.0,0
+2022,51,51067,"Franklin County, Virginia",1645.0,13339.0,824.0,0
+2023,51,51067,"Franklin County, Virginia",1616.0,13083.0,866.0,0
+2024,51,51067,"Franklin County, Virginia",1565.0,13346.0,901.0,0
+2020,51,51069,"Frederick County, Virginia",1871.0,27947.0,971.0,0
+2021,51,51069,"Frederick County, Virginia",1930.0,29055.0,1029.0,0
+2022,51,51069,"Frederick County, Virginia",2137.0,31515.0,1090.0,0
+2023,51,51069,"Frederick County, Virginia",2087.0,33065.0,1115.0,0
+2024,51,51069,"Frederick County, Virginia",2076.0,33898.0,1174.0,0
+2020,51,51071,"Giles County, Virginia",344.0,3662.0,892.0,0
+2021,51,51071,"Giles County, Virginia",347.0,4508.0,1094.0,0
+2022,51,51071,"Giles County, Virginia",409.0,4351.0,984.0,0
+2023,51,51071,"Giles County, Virginia",416.0,5265.0,1333.0,0
+2024,51,51071,"Giles County, Virginia",405.0,4978.0,1302.0,0
+2020,51,51073,"Gloucester County, Virginia",942.0,7201.0,707.0,0
+2021,51,51073,"Gloucester County, Virginia",957.0,7386.0,755.0,0
+2022,51,51073,"Gloucester County, Virginia",1118.0,7475.0,806.0,0
+2023,51,51073,"Gloucester County, Virginia",1136.0,7783.0,829.0,0
+2024,51,51073,"Gloucester County, Virginia",1070.0,7927.0,873.0,0
+2020,51,51075,"Goochland County, Virginia",802.0,16699.0,2140.0,0
+2021,51,51075,"Goochland County, Virginia",835.0,17490.0,2259.0,0
+2022,51,51075,"Goochland County, Virginia",1064.0,18589.0,2241.0,0
+2023,51,51075,"Goochland County, Virginia",1116.0,17617.0,2308.0,0
+2024,51,51075,"Goochland County, Virginia",1032.0,17055.0,2393.0,0
+2020,51,51077,"Grayson County, Virginia",337.0,2135.0,528.0,0
+2021,51,51077,"Grayson County, Virginia",343.0,2054.0,570.0,0
+2022,51,51077,"Grayson County, Virginia",375.0,2162.0,618.0,0
+2023,51,51077,"Grayson County, Virginia",342.0,2266.0,647.0,0
+2024,51,51077,"Grayson County, Virginia",320.0,2317.0,663.0,0
+2020,51,51079,"Greene County, Virginia",483.0,2811.0,696.0,0
+2021,51,51079,"Greene County, Virginia",493.0,2893.0,733.0,0
+2022,51,51079,"Greene County, Virginia",560.0,2983.0,753.0,0
+2023,51,51079,"Greene County, Virginia",545.0,3154.0,783.0,0
+2024,51,51079,"Greene County, Virginia",524.0,3165.0,806.0,0
+2020,51,51081,"Greensville County, Virginia",197.0,2732.0,950.0,0
+2021,51,51081,"Greensville County, Virginia",201.0,2783.0,1008.0,0
+2022,51,51081,"Greensville County, Virginia",315.0,2744.0,1035.0,0
+2023,51,51081,"Greensville County, Virginia",306.0,2580.0,1080.0,0
+2024,51,51081,"Greensville County, Virginia",234.0,2441.0,1150.0,0
+2020,51,51083,"Halifax County, Virginia",972.0,9308.0,783.0,0
+2021,51,51083,"Halifax County, Virginia",976.0,9480.0,822.0,0
+2022,51,51083,"Halifax County, Virginia",1056.0,9762.0,883.0,0
+2023,51,51083,"Halifax County, Virginia",994.0,9899.0,940.0,0
+2024,51,51083,"Halifax County, Virginia",955.0,9782.0,987.0,0
+2020,51,51085,"Hanover County, Virginia",3734.0,45909.0,921.0,0
+2021,51,51085,"Hanover County, Virginia",3845.0,47871.0,981.0,0
+2022,51,51085,"Hanover County, Virginia",4299.0,50833.0,1044.0,0
+2023,51,51085,"Hanover County, Virginia",4347.0,53298.0,1043.0,0
+2024,51,51085,"Hanover County, Virginia",4243.0,53547.0,1070.0,0
+2020,51,51087,"Henrico County, Virginia",11673.0,161406.0,1176.0,0
+2021,51,51087,"Henrico County, Virginia",11980.0,163902.0,1230.0,0
+2022,51,51087,"Henrico County, Virginia",12864.0,168499.0,1286.0,0
+2023,51,51087,"Henrico County, Virginia",12619.0,166762.0,1320.0,0
+2024,51,51087,"Henrico County, Virginia",12480.0,167003.0,1368.0,0
+2020,51,51089,"Henry County, Virginia",1560.0,12823.0,688.0,0
+2021,51,51089,"Henry County, Virginia",1617.0,13292.0,722.0,0
+2022,51,51089,"Henry County, Virginia",1791.0,13241.0,794.0,0
+2023,51,51089,"Henry County, Virginia",1693.0,13451.0,823.0,0
+2024,51,51089,"Henry County, Virginia",1666.0,13386.0,863.0,0
+2020,51,51091,"Highland County, Virginia",84.0,264.0,652.0,0
+2021,51,51091,"Highland County, Virginia",83.0,276.0,655.0,0
+2022,51,51091,"Highland County, Virginia",155.0,296.0,684.0,0
+2023,51,51091,"Highland County, Virginia",166.0,409.0,851.0,0
+2024,51,51091,"Highland County, Virginia",120.0,432.0,920.0,0
+2020,51,51093,"Isle of Wight County, Virginia",827.0,9048.0,1037.0,0
+2021,51,51093,"Isle of Wight County, Virginia",865.0,9175.0,1013.0,0
+2022,51,51093,"Isle of Wight County, Virginia",958.0,8993.0,1065.0,0
+2023,51,51093,"Isle of Wight County, Virginia",915.0,8884.0,1585.0,0
+2024,51,51093,"Isle of Wight County, Virginia",886.0,8483.0,1132.0,0
+2020,51,51095,"James City County, Virginia",1941.0,21761.0,884.0,0
+2021,51,51095,"James City County, Virginia",1989.0,23412.0,902.0,0
+2022,51,51095,"James City County, Virginia",2190.0,24819.0,941.0,0
+2023,51,51095,"James City County, Virginia",2196.0,24950.0,988.0,0
+2024,51,51095,"James City County, Virginia",2214.0,25571.0,994.0,0
+2020,51,51097,"King and Queen County, Virginia",142.0,783.0,828.0,0
+2021,51,51097,"King and Queen County, Virginia",150.0,804.0,872.0,0
+2022,51,51097,"King and Queen County, Virginia",224.0,749.0,932.0,0
+2023,51,51097,"King and Queen County, Virginia",221.0,766.0,976.0,0
+2024,51,51097,"King and Queen County, Virginia",188.0,795.0,1145.0,0
+2020,51,51099,"King George County, Virginia",586.0,5761.0,1147.0,0
+2021,51,51099,"King George County, Virginia",603.0,6041.0,1176.0,0
+2022,51,51099,"King George County, Virginia",685.0,6178.0,1219.0,0
+2023,51,51099,"King George County, Virginia",689.0,6404.0,1240.0,0
+2024,51,51099,"King George County, Virginia",657.0,6762.0,1349.0,0
+2020,51,51101,"King William County, Virginia",420.0,3060.0,964.0,0
+2021,51,51101,"King William County, Virginia",421.0,3052.0,982.0,0
+2022,51,51101,"King William County, Virginia",497.0,3184.0,1042.0,0
+2023,51,51101,"King William County, Virginia",483.0,3154.0,1103.0,0
+2024,51,51101,"King William County, Virginia",463.0,3232.0,1141.0,0
+2020,51,51103,"Lancaster County, Virginia",463.0,3845.0,759.0,0
+2021,51,51103,"Lancaster County, Virginia",470.0,3877.0,804.0,0
+2022,51,51103,"Lancaster County, Virginia",567.0,3964.0,854.0,0
+2023,51,51103,"Lancaster County, Virginia",556.0,4300.0,976.0,0
+2024,51,51103,"Lancaster County, Virginia",515.0,4250.0,1000.0,0
+2020,51,51105,"Lee County, Virginia",479.0,2603.0,594.0,0
+2021,51,51105,"Lee County, Virginia",475.0,2574.0,629.0,0
+2022,51,51105,"Lee County, Virginia",528.0,2587.0,689.0,0
+2023,51,51105,"Lee County, Virginia",486.0,2609.0,736.0,0
+2024,51,51105,"Lee County, Virginia",472.0,2670.0,751.0,0
+2020,51,51107,"Loudoun County, Virginia",12622.0,137940.0,1431.0,0
+2021,51,51107,"Loudoun County, Virginia",13282.0,144564.0,1457.0,0
+2022,51,51107,"Loudoun County, Virginia",14653.0,151405.0,1521.0,0
+2023,51,51107,"Loudoun County, Virginia",14410.0,158590.0,1549.0,0
+2024,51,51107,"Loudoun County, Virginia",14401.0,166777.0,1631.0,0
+2020,51,51109,"Louisa County, Virginia",945.0,7954.0,989.0,0
+2021,51,51109,"Louisa County, Virginia",986.0,8235.0,1042.0,0
+2022,51,51109,"Louisa County, Virginia",1108.0,8598.0,1090.0,0
+2023,51,51109,"Louisa County, Virginia",1066.0,8432.0,1115.0,0
+2024,51,51109,"Louisa County, Virginia",1059.0,8510.0,1181.0,0
+2020,51,51111,"Lunenburg County, Virginia",277.0,1573.0,740.0,0
+2021,51,51111,"Lunenburg County, Virginia",287.0,1465.0,1232.0,0
+2022,51,51111,"Lunenburg County, Virginia",343.0,1421.0,852.0,0
+2023,51,51111,"Lunenburg County, Virginia",339.0,1473.0,880.0,0
+2024,51,51111,"Lunenburg County, Virginia",322.0,1512.0,908.0,0
+2020,51,51113,"Madison County, Virginia",331.0,2478.0,765.0,0
+2021,51,51113,"Madison County, Virginia",337.0,2531.0,785.0,0
+2022,51,51113,"Madison County, Virginia",466.0,2549.0,837.0,0
+2023,51,51113,"Madison County, Virginia",511.0,2537.0,904.0,0
+2024,51,51113,"Madison County, Virginia",446.0,2472.0,959.0,0
+2020,51,51115,"Mathews County, Virginia",193.0,1124.0,574.0,0
+2021,51,51115,"Mathews County, Virginia",195.0,1109.0,634.0,0
+2022,51,51115,"Mathews County, Virginia",223.0,1142.0,705.0,0
+2023,51,51115,"Mathews County, Virginia",237.0,1185.0,751.0,0
+2024,51,51115,"Mathews County, Virginia",231.0,1165.0,801.0,0
+2020,51,51117,"Mecklenburg County, Virginia",1021.0,9161.0,737.0,0
+2021,51,51117,"Mecklenburg County, Virginia",1024.0,9243.0,793.0,0
+2022,51,51117,"Mecklenburg County, Virginia",1112.0,9673.0,841.0,0
+2023,51,51117,"Mecklenburg County, Virginia",1071.0,9862.0,892.0,0
+2024,51,51117,"Mecklenburg County, Virginia",1006.0,9953.0,972.0,0
+2020,51,51119,"Middlesex County, Virginia",354.0,2185.0,698.0,0
+2021,51,51119,"Middlesex County, Virginia",353.0,2267.0,739.0,0
+2022,51,51119,"Middlesex County, Virginia",440.0,2343.0,805.0,0
+2023,51,51119,"Middlesex County, Virginia",434.0,2377.0,838.0,0
+2024,51,51119,"Middlesex County, Virginia",388.0,2450.0,877.0,0
+2020,51,51121,"Montgomery County, Virginia",2222.0,26792.0,867.0,0
+2021,51,51121,"Montgomery County, Virginia",2271.0,27917.0,921.0,0
+2022,51,51121,"Montgomery County, Virginia",2514.0,28965.0,972.0,0
+2023,51,51121,"Montgomery County, Virginia",2548.0,29242.0,993.0,0
+2024,51,51121,"Montgomery County, Virginia",2498.0,28784.0,1037.0,0
+2020,51,51125,"Nelson County, Virginia",512.0,2931.0,733.0,0
+2021,51,51125,"Nelson County, Virginia",515.0,2986.0,781.0,0
+2022,51,51125,"Nelson County, Virginia",603.0,3145.0,804.0,0
+2023,51,51125,"Nelson County, Virginia",585.0,3223.0,858.0,0
+2024,51,51125,"Nelson County, Virginia",530.0,3168.0,886.0,0
+2020,51,51127,"New Kent County, Virginia",494.0,3957.0,857.0,0
+2021,51,51127,"New Kent County, Virginia",507.0,4192.0,820.0,0
+2022,51,51127,"New Kent County, Virginia",568.0,4355.0,877.0,0
+2023,51,51127,"New Kent County, Virginia",561.0,4571.0,898.0,0
+2024,51,51127,"New Kent County, Virginia",552.0,4904.0,946.0,0
+2020,51,51131,"Northampton County, Virginia",535.0,3239.0,636.0,0
+2021,51,51131,"Northampton County, Virginia",547.0,3367.0,715.0,0
+2022,51,51131,"Northampton County, Virginia",612.0,3510.0,736.0,0
+2023,51,51131,"Northampton County, Virginia",574.0,3566.0,747.0,0
+2024,51,51131,"Northampton County, Virginia",544.0,3623.0,784.0,0
+2020,51,51133,"Northumberland County, Virginia",340.0,2031.0,1017.0,0
+2021,51,51133,"Northumberland County, Virginia",346.0,1968.0,1049.0,0
+2022,51,51133,"Northumberland County, Virginia",386.0,1907.0,1090.0,0
+2023,51,51133,"Northumberland County, Virginia",379.0,1877.0,929.0,0
+2024,51,51133,"Northumberland County, Virginia",355.0,1874.0,981.0,0
+2020,51,51135,"Nottoway County, Virginia",388.0,2875.0,686.0,0
+2021,51,51135,"Nottoway County, Virginia",398.0,3055.0,793.0,0
+2022,51,51135,"Nottoway County, Virginia",463.0,3090.0,866.0,0
+2023,51,51135,"Nottoway County, Virginia",449.0,2972.0,901.0,0
+2024,51,51135,"Nottoway County, Virginia",426.0,2878.0,923.0,0
+2020,51,51137,"Orange County, Virginia",892.0,7248.0,812.0,0
+2021,51,51137,"Orange County, Virginia",929.0,7498.0,856.0,0
+2022,51,51137,"Orange County, Virginia",1012.0,7373.0,883.0,0
+2023,51,51137,"Orange County, Virginia",989.0,7416.0,921.0,0
+2024,51,51137,"Orange County, Virginia",982.0,7360.0,922.0,0
+2020,51,51139,"Page County, Virginia",541.0,3948.0,674.0,0
+2021,51,51139,"Page County, Virginia",555.0,4124.0,712.0,0
+2022,51,51139,"Page County, Virginia",599.0,4159.0,736.0,0
+2023,51,51139,"Page County, Virginia",586.0,4401.0,761.0,0
+2024,51,51139,"Page County, Virginia",572.0,4247.0,800.0,0
+2020,51,51141,"Patrick County, Virginia",502.0,3244.0,594.0,0
+2021,51,51141,"Patrick County, Virginia",502.0,3295.0,645.0,0
+2022,51,51141,"Patrick County, Virginia",534.0,3279.0,703.0,0
+2023,51,51141,"Patrick County, Virginia",495.0,3321.0,731.0,0
+2024,51,51141,"Patrick County, Virginia",455.0,3216.0,760.0,0
+2020,51,51143,"Pittsylvania County, Virginia",1311.0,9029.0,756.0,0
+2021,51,51143,"Pittsylvania County, Virginia",1344.0,9552.0,803.0,0
+2022,51,51143,"Pittsylvania County, Virginia",1470.0,9810.0,855.0,0
+2023,51,51143,"Pittsylvania County, Virginia",1403.0,10109.0,918.0,0
+2024,51,51143,"Pittsylvania County, Virginia",1358.0,10001.0,963.0,0
+2020,51,51145,"Powhatan County, Virginia",798.0,5614.0,853.0,0
+2021,51,51145,"Powhatan County, Virginia",833.0,5930.0,891.0,0
+2022,51,51145,"Powhatan County, Virginia",893.0,6120.0,952.0,0
+2023,51,51145,"Powhatan County, Virginia",871.0,6296.0,990.0,0
+2024,51,51145,"Powhatan County, Virginia",862.0,6570.0,1052.0,0
+2020,51,51147,"Prince Edward County, Virginia",684.0,6624.0,729.0,0
+2021,51,51147,"Prince Edward County, Virginia",690.0,6819.0,775.0,0
+2022,51,51147,"Prince Edward County, Virginia",738.0,6738.0,802.0,0
+2023,51,51147,"Prince Edward County, Virginia",700.0,6815.0,845.0,0
+2024,51,51147,"Prince Edward County, Virginia",680.0,6827.0,888.0,0
+2020,51,51149,"Prince George County, Virginia",573.0,8015.0,884.0,0
+2021,51,51149,"Prince George County, Virginia",597.0,8157.0,891.0,0
+2022,51,51149,"Prince George County, Virginia",643.0,8359.0,936.0,0
+2023,51,51149,"Prince George County, Virginia",611.0,8503.0,997.0,0
+2024,51,51149,"Prince George County, Virginia",595.0,8722.0,1030.0,0
+2020,51,51153,"Prince William County, Virginia",9515.0,97568.0,998.0,0
+2021,51,51153,"Prince William County, Virginia",9870.0,102332.0,1020.0,0
+2022,51,51153,"Prince William County, Virginia",10761.0,105540.0,1061.0,0
+2023,51,51153,"Prince William County, Virginia",10562.0,110273.0,1107.0,0
+2024,51,51153,"Prince William County, Virginia",10506.0,112854.0,1146.0,0
+2020,51,51155,"Pulaski County, Virginia",736.0,10968.0,803.0,0
+2021,51,51155,"Pulaski County, Virginia",756.0,11676.0,880.0,0
+2022,51,51155,"Pulaski County, Virginia",824.0,12796.0,961.0,0
+2023,51,51155,"Pulaski County, Virginia",796.0,12685.0,990.0,0
+2024,51,51155,"Pulaski County, Virginia",801.0,12744.0,1029.0,0
+2020,51,51157,"Rappahannock County, Virginia",236.0,1036.0,768.0,0
+2021,51,51157,"Rappahannock County, Virginia",243.0,1150.0,811.0,0
+2022,51,51157,"Rappahannock County, Virginia",285.0,1258.0,837.0,0
+2023,51,51157,"Rappahannock County, Virginia",278.0,1208.0,899.0,0
+2024,51,51157,"Rappahannock County, Virginia",259.0,1196.0,934.0,0
+2020,51,51159,"Richmond County, Virginia",201.0,1788.0,779.0,0
+2021,51,51159,"Richmond County, Virginia",219.0,1741.0,798.0,0
+2022,51,51159,"Richmond County, Virginia",246.0,1764.0,848.0,0
+2023,51,51159,"Richmond County, Virginia",245.0,1701.0,812.0,0
+2024,51,51159,"Richmond County, Virginia",248.0,1682.0,820.0,0
+2020,51,51161,"Roanoke County, Virginia",2432.0,32725.0,905.0,0
+2021,51,51161,"Roanoke County, Virginia",2533.0,32768.0,963.0,0
+2022,51,51161,"Roanoke County, Virginia",2712.0,33268.0,999.0,0
+2023,51,51161,"Roanoke County, Virginia",2674.0,32641.0,1014.0,0
+2024,51,51161,"Roanoke County, Virginia",2613.0,32217.0,1062.0,0
+2020,51,51163,"Rockbridge County, Virginia",487.0,4857.0,661.0,0
+2021,51,51163,"Rockbridge County, Virginia",502.0,4891.0,706.0,0
+2022,51,51163,"Rockbridge County, Virginia",578.0,4905.0,763.0,0
+2023,51,51163,"Rockbridge County, Virginia",570.0,4864.0,795.0,0
+2024,51,51163,"Rockbridge County, Virginia",532.0,4966.0,840.0,0
+2020,51,51165,"Rockingham County, Virginia",1787.0,29095.0,942.0,0
+2021,51,51165,"Rockingham County, Virginia",1866.0,30054.0,989.0,0
+2022,51,51165,"Rockingham County, Virginia",2033.0,29439.0,1044.0,0
+2023,51,51165,"Rockingham County, Virginia",1992.0,30999.0,1082.0,0
+2024,51,51165,"Rockingham County, Virginia",1987.0,31108.0,1126.0,0
+2020,51,51167,"Russell County, Virginia",525.0,5004.0,825.0,0
+2021,51,51167,"Russell County, Virginia",528.0,4874.0,844.0,0
+2022,51,51167,"Russell County, Virginia",571.0,5009.0,888.0,0
+2023,51,51167,"Russell County, Virginia",535.0,4939.0,920.0,0
+2024,51,51167,"Russell County, Virginia",512.0,4739.0,947.0,0
+2020,51,51169,"Scott County, Virginia",365.0,3426.0,686.0,0
+2021,51,51169,"Scott County, Virginia",362.0,3379.0,739.0,0
+2022,51,51169,"Scott County, Virginia",380.0,3480.0,768.0,0
+2023,51,51169,"Scott County, Virginia",354.0,3511.0,812.0,0
+2024,51,51169,"Scott County, Virginia",350.0,3617.0,854.0,0
+2020,51,51171,"Shenandoah County, Virginia",1103.0,11327.0,797.0,0
+2021,51,51171,"Shenandoah County, Virginia",1128.0,11185.0,847.0,0
+2022,51,51171,"Shenandoah County, Virginia",1215.0,11256.0,883.0,0
+2023,51,51171,"Shenandoah County, Virginia",1128.0,11389.0,919.0,0
+2024,51,51171,"Shenandoah County, Virginia",1105.0,11220.0,969.0,0
+2020,51,51173,"Smyth County, Virginia",813.0,8528.0,728.0,0
+2021,51,51173,"Smyth County, Virginia",824.0,8922.0,761.0,0
+2022,51,51173,"Smyth County, Virginia",883.0,8710.0,826.0,0
+2023,51,51173,"Smyth County, Virginia",800.0,8851.0,873.0,0
+2024,51,51173,"Smyth County, Virginia",743.0,8638.0,912.0,0
+2020,51,51175,"Southampton County, Virginia",302.0,2095.0,788.0,0
+2021,51,51175,"Southampton County, Virginia",316.0,2082.0,827.0,0
+2022,51,51175,"Southampton County, Virginia",334.0,2287.0,968.0,0
+2023,51,51175,"Southampton County, Virginia",323.0,2382.0,997.0,0
+2024,51,51175,"Southampton County, Virginia",306.0,2126.0,960.0,0
+2020,51,51177,"Spotsylvania County, Virginia",3091.0,28470.0,899.0,0
+2021,51,51177,"Spotsylvania County, Virginia",3204.0,29835.0,925.0,0
+2022,51,51177,"Spotsylvania County, Virginia",3502.0,30454.0,950.0,0
+2023,51,51177,"Spotsylvania County, Virginia",3472.0,30728.0,975.0,0
+2024,51,51177,"Spotsylvania County, Virginia",3488.0,31531.0,993.0,0
+2020,51,51179,"Stafford County, Virginia",2809.0,33207.0,985.0,0
+2021,51,51179,"Stafford County, Virginia",2982.0,34193.0,1042.0,0
+2022,51,51179,"Stafford County, Virginia",3294.0,34675.0,1072.0,0
+2023,51,51179,"Stafford County, Virginia",3200.0,34079.0,1103.0,0
+2024,51,51179,"Stafford County, Virginia",3194.0,32990.0,1128.0,0
+2020,51,51181,"Surry County, Virginia",108.0,1537.0,1849.0,0
+2021,51,51181,"Surry County, Virginia",115.0,1516.0,1992.0,0
+2022,51,51181,"Surry County, Virginia",130.0,1592.0,1943.0,0
+2023,51,51181,"Surry County, Virginia",128.0,1626.0,1982.0,0
+2024,51,51181,"Surry County, Virginia",126.0,1657.0,2204.0,0
+2020,51,51183,"Sussex County, Virginia",240.0,2272.0,847.0,0
+2021,51,51183,"Sussex County, Virginia",232.0,2030.0,902.0,0
+2022,51,51183,"Sussex County, Virginia",308.0,2107.0,936.0,0
+2023,51,51183,"Sussex County, Virginia",317.0,2258.0,981.0,0
+2024,51,51183,"Sussex County, Virginia",268.0,2246.0,1002.0,0
+2020,51,51185,"Tazewell County, Virginia",975.0,10526.0,711.0,0
+2021,51,51185,"Tazewell County, Virginia",961.0,10448.0,750.0,0
+2022,51,51185,"Tazewell County, Virginia",1012.0,10707.0,817.0,0
+2023,51,51185,"Tazewell County, Virginia",963.0,10591.0,873.0,0
+2024,51,51185,"Tazewell County, Virginia",928.0,10463.0,868.0,0
+2020,51,51187,"Warren County, Virginia",1016.0,10544.0,811.0,0
+2021,51,51187,"Warren County, Virginia",1053.0,11309.0,853.0,0
+2022,51,51187,"Warren County, Virginia",1152.0,11483.0,903.0,0
+2023,51,51187,"Warren County, Virginia",1121.0,11699.0,931.0,0
+2024,51,51187,"Warren County, Virginia",1102.0,11383.0,982.0,0
+2020,51,51191,"Washington County, Virginia",1412.0,15198.0,761.0,0
+2021,51,51191,"Washington County, Virginia",1422.0,15705.0,793.0,0
+2022,51,51191,"Washington County, Virginia",1549.0,16354.0,857.0,0
+2023,51,51191,"Washington County, Virginia",1502.0,16876.0,905.0,0
+2024,51,51191,"Washington County, Virginia",1497.0,17244.0,936.0,0
+2020,51,51193,"Westmoreland County, Virginia",380.0,2309.0,657.0,0
+2021,51,51193,"Westmoreland County, Virginia",392.0,2389.0,697.0,0
+2022,51,51193,"Westmoreland County, Virginia",440.0,2343.0,751.0,0
+2023,51,51193,"Westmoreland County, Virginia",423.0,2224.0,812.0,0
+2024,51,51193,"Westmoreland County, Virginia",434.0,2276.0,808.0,0
+2020,51,51195,"Wise County, Virginia",805.0,7479.0,667.0,0
+2021,51,51195,"Wise County, Virginia",777.0,7422.0,737.0,0
+2022,51,51195,"Wise County, Virginia",813.0,7499.0,786.0,0
+2023,51,51195,"Wise County, Virginia",753.0,7170.0,817.0,0
+2024,51,51195,"Wise County, Virginia",718.0,7187.0,841.0,0
+2020,51,51197,"Wythe County, Virginia",803.0,8608.0,735.0,0
+2021,51,51197,"Wythe County, Virginia",827.0,8861.0,775.0,0
+2022,51,51197,"Wythe County, Virginia",889.0,9226.0,838.0,0
+2023,51,51197,"Wythe County, Virginia",870.0,9476.0,870.0,0
+2024,51,51197,"Wythe County, Virginia",850.0,9151.0,894.0,0
+2020,51,51199,"York County, Virginia",1554.0,15396.0,766.0,0
+2021,51,51199,"York County, Virginia",1595.0,15913.0,798.0,0
+2022,51,51199,"York County, Virginia",1705.0,17297.0,870.0,0
+2023,51,51199,"York County, Virginia",1674.0,17573.0,910.0,0
+2024,51,51199,"York County, Virginia",1667.0,17700.0,981.0,0
+2020,51,51510,"Alexandria City, Virginia",6075.0,62209.0,1481.0,0
+2021,51,51510,"Alexandria City, Virginia",6250.0,62496.0,1534.0,0
+2022,51,51510,"Alexandria City, Virginia",6760.0,63944.0,1594.0,0
+2023,51,51510,"Alexandria City, Virginia",6423.0,64068.0,1613.0,0
+2024,51,51510,"Alexandria City, Virginia",6240.0,64331.0,1670.0,0
+2020,51,51520,"Bristol City, Virginia",557.0,7431.0,696.0,0
+2021,51,51520,"Bristol City, Virginia",559.0,7517.0,733.0,0
+2022,51,51520,"Bristol City, Virginia",617.0,8021.0,764.0,0
+2023,51,51520,"Bristol City, Virginia",585.0,8352.0,816.0,0
+2024,51,51520,"Bristol City, Virginia",565.0,8660.0,861.0,0
+2020,51,51530,"Buena Vista City, Virginia",125.0,1940.0,659.0,0
+2021,51,51530,"Buena Vista City, Virginia",130.0,1593.0,775.0,0
+2022,51,51530,"Buena Vista City, Virginia",138.0,1861.0,807.0,0
+2023,51,51530,"Buena Vista City, Virginia",140.0,2301.0,888.0,0
+2024,51,51530,"Buena Vista City, Virginia",149.0,2152.0,1003.0,0
+2020,51,51540,"Charlottesville City, Virginia",2384.0,25449.0,1198.0,0
+2021,51,51540,"Charlottesville City, Virginia",2425.0,26723.0,1315.0,0
+2022,51,51540,"Charlottesville City, Virginia",2599.0,27630.0,1298.0,0
+2023,51,51540,"Charlottesville City, Virginia",2491.0,27159.0,1321.0,0
+2024,51,51540,"Charlottesville City, Virginia",2488.0,27060.0,1391.0,0
+2020,51,51550,"Chesapeake City, Virginia",6198.0,83973.0,933.0,0
+2021,51,51550,"Chesapeake City, Virginia",6390.0,85276.0,986.0,0
+2022,51,51550,"Chesapeake City, Virginia",6867.0,87821.0,1027.0,0
+2023,51,51550,"Chesapeake City, Virginia",6755.0,88821.0,1075.0,0
+2024,51,51550,"Chesapeake City, Virginia",6792.0,88845.0,1120.0,0
+2020,51,51570,"Colonial Heights City, Virginia",702.0,8285.0,637.0,0
+2021,51,51570,"Colonial Heights City, Virginia",716.0,8660.0,675.0,0
+2022,51,51570,"Colonial Heights City, Virginia",764.0,8372.0,705.0,0
+2023,51,51570,"Colonial Heights City, Virginia",743.0,8467.0,758.0,0
+2024,51,51570,"Colonial Heights City, Virginia",721.0,8489.0,786.0,0
+2020,51,51580,"Covington City, Virginia",236.0,3251.0,1066.0,0
+2021,51,51580,"Covington City, Virginia",242.0,3244.0,1082.0,0
+2022,51,51580,"Covington City, Virginia",250.0,3200.0,1160.0,0
+2023,51,51580,"Covington City, Virginia",252.0,3175.0,1126.0,0
+2024,51,51580,"Covington City, Virginia",248.0,3087.0,1155.0,0
+2020,51,51590,"Danville City, Virginia",1761.0,20362.0,764.0,0
+2021,51,51590,"Danville City, Virginia",1814.0,20346.0,804.0,0
+2022,51,51590,"Danville City, Virginia",1956.0,20579.0,864.0,0
+2023,51,51590,"Danville City, Virginia",1817.0,20867.0,913.0,0
+2024,51,51590,"Danville City, Virginia",1773.0,21234.0,941.0,0
+2020,51,51595,"Emporia City, Virginia",266.0,2863.0,642.0,0
+2021,51,51595,"Emporia City, Virginia",266.0,3126.0,645.0,0
+2022,51,51595,"Emporia City, Virginia",279.0,3210.0,698.0,0
+2023,51,51595,"Emporia City, Virginia",261.0,3142.0,755.0,0
+2024,51,51595,"Emporia City, Virginia",244.0,3185.0,774.0,0
+2020,51,51600,"Fairfax City, Virginia",1642.0,16351.0,1192.0,0
+2021,51,51600,"Fairfax City, Virginia",1697.0,16955.0,1231.0,0
+2022,51,51600,"Fairfax City, Virginia",1844.0,17697.0,1254.0,0
+2023,51,51600,"Fairfax City, Virginia",1771.0,18990.0,1303.0,0
+2024,51,51600,"Fairfax City, Virginia",1733.0,19537.0,1249.0,0
+2020,51,51610,"Falls Church City, Virginia",954.0,8411.0,1351.0,0
+2021,51,51610,"Falls Church City, Virginia",993.0,8902.0,1375.0,0
+2022,51,51610,"Falls Church City, Virginia",1056.0,8919.0,1285.0,0
+2023,51,51610,"Falls Church City, Virginia",1017.0,9353.0,1313.0,0
+2024,51,51610,"Falls Church City, Virginia",1006.0,9431.0,1384.0,0
+2020,51,51620,"Franklin City, Virginia",309.0,3431.0,593.0,0
+2021,51,51620,"Franklin City, Virginia",299.0,3192.0,611.0,0
+2022,51,51620,"Franklin City, Virginia",314.0,3129.0,640.0,0
+2023,51,51620,"Franklin City, Virginia",292.0,3154.0,730.0,0
+2024,51,51620,"Franklin City, Virginia",284.0,3202.0,741.0,0
+2020,51,51630,"Fredericksburg City, Virginia",1583.0,18942.0,996.0,0
+2021,51,51630,"Fredericksburg City, Virginia",1610.0,19272.0,1042.0,0
+2022,51,51630,"Fredericksburg City, Virginia",1740.0,19991.0,1055.0,0
+2023,51,51630,"Fredericksburg City, Virginia",1686.0,20575.0,1118.0,0
+2024,51,51630,"Fredericksburg City, Virginia",1670.0,20859.0,1146.0,0
+2020,51,51640,"Galax City, Virginia",371.0,4657.0,643.0,0
+2021,51,51640,"Galax City, Virginia",375.0,4730.0,680.0,0
+2022,51,51640,"Galax City, Virginia",391.0,4912.0,739.0,0
+2023,51,51640,"Galax City, Virginia",380.0,5049.0,771.0,0
+2024,51,51640,"Galax City, Virginia",359.0,5153.0,796.0,0
+2020,51,51650,"Hampton City, Virginia",2631.0,35181.0,884.0,0
+2021,51,51650,"Hampton City, Virginia",2771.0,35495.0,945.0,0
+2022,51,51650,"Hampton City, Virginia",2986.0,35103.0,961.0,0
+2023,51,51650,"Hampton City, Virginia",2967.0,35124.0,1010.0,0
+2024,51,51650,"Hampton City, Virginia",2936.0,35298.0,1069.0,0
+2020,51,51660,"Harrisonburg City, Virginia",1654.0,22061.0,842.0,0
+2021,51,51660,"Harrisonburg City, Virginia",1684.0,22836.0,818.0,0
+2022,51,51660,"Harrisonburg City, Virginia",1769.0,24456.0,850.0,0
+2023,51,51660,"Harrisonburg City, Virginia",1710.0,23893.0,873.0,0
+2024,51,51660,"Harrisonburg City, Virginia",1683.0,23587.0,908.0,0
+2020,51,51670,"Hopewell City, Virginia",500.0,6201.0,1169.0,0
+2021,51,51670,"Hopewell City, Virginia",506.0,6069.0,1201.0,0
+2022,51,51670,"Hopewell City, Virginia",556.0,6035.0,1263.0,0
+2023,51,51670,"Hopewell City, Virginia",530.0,6070.0,1289.0,0
+2024,51,51670,"Hopewell City, Virginia",511.0,5967.0,1332.0,0
+2020,51,51678,"Lexington City, Virginia",254.0,3083.0,925.0,0
+2021,51,51678,"Lexington City, Virginia",259.0,3374.0,926.0,0
+2022,51,51678,"Lexington City, Virginia",280.0,3806.0,906.0,0
+2023,51,51678,"Lexington City, Virginia",274.0,4071.0,920.0,0
+2024,51,51678,"Lexington City, Virginia",272.0,4200.0,909.0,0
+2020,51,51680,"Lynchburg City, Virginia",2617.0,44143.0,943.0,0
+2021,51,51680,"Lynchburg City, Virginia",2657.0,44268.0,981.0,0
+2022,51,51680,"Lynchburg City, Virginia",2797.0,44611.0,1049.0,0
+2023,51,51680,"Lynchburg City, Virginia",2655.0,43939.0,1086.0,0
+2024,51,51680,"Lynchburg City, Virginia",2575.0,43028.0,1134.0,0
+2020,51,51683,"Manassas City, Virginia",1487.0,19691.0,1384.0,0
+2021,51,51683,"Manassas City, Virginia",1520.0,20453.0,1428.0,0
+2022,51,51683,"Manassas City, Virginia",1614.0,20483.0,1481.0,0
+2023,51,51683,"Manassas City, Virginia",1563.0,20328.0,1540.0,0
+2024,51,51683,"Manassas City, Virginia",1530.0,20311.0,1602.0,0
+2020,51,51685,"Manassas Park City, Virginia",297.0,2924.0,1024.0,0
+2021,51,51685,"Manassas Park City, Virginia",312.0,3147.0,1030.0,0
+2022,51,51685,"Manassas Park City, Virginia",338.0,3564.0,1010.0,0
+2023,51,51685,"Manassas Park City, Virginia",341.0,3432.0,1068.0,0
+2024,51,51685,"Manassas Park City, Virginia",335.0,2802.0,1306.0,0
+2020,51,51690,"Martinsville City, Virginia",918.0,7370.0,671.0,0
+2021,51,51690,"Martinsville City, Virginia",924.0,7461.0,711.0,0
+2022,51,51690,"Martinsville City, Virginia",1008.0,7906.0,767.0,0
+2023,51,51690,"Martinsville City, Virginia",931.0,7530.0,811.0,0
+2024,51,51690,"Martinsville City, Virginia",909.0,7635.0,809.0,0
+2020,51,51700,"Newport News City, Virginia",3903.0,83385.0,1117.0,0
+2021,51,51700,"Newport News City, Virginia",4075.0,84527.0,1155.0,0
+2022,51,51700,"Newport News City, Virginia",4401.0,84352.0,1231.0,0
+2023,51,51700,"Newport News City, Virginia",4388.0,84941.0,1285.0,0
+2024,51,51700,"Newport News City, Virginia",4383.0,86162.0,1318.0,0
+2020,51,51710,"Norfolk City, Virginia",5978.0,94789.0,1114.0,0
+2021,51,51710,"Norfolk City, Virginia",6071.0,96364.0,1173.0,0
+2022,51,51710,"Norfolk City, Virginia",6521.0,100463.0,1233.0,0
+2023,51,51710,"Norfolk City, Virginia",6379.0,103319.0,1273.0,0
+2024,51,51710,"Norfolk City, Virginia",6296.0,104335.0,1299.0,0
+2020,51,51720,"Norton City, Virginia",219.0,2749.0,781.0,0
+2021,51,51720,"Norton City, Virginia",214.0,2663.0,765.0,0
+2022,51,51720,"Norton City, Virginia",220.0,2589.0,803.0,0
+2023,51,51720,"Norton City, Virginia",212.0,2621.0,837.0,0
+2024,51,51720,"Norton City, Virginia",213.0,2673.0,848.0,0
+2020,51,51730,"Petersburg City, Virginia",888.0,9976.0,793.0,0
+2021,51,51730,"Petersburg City, Virginia",924.0,9876.0,830.0,0
+2022,51,51730,"Petersburg City, Virginia",1038.0,10143.0,898.0,0
+2023,51,51730,"Petersburg City, Virginia",957.0,9975.0,971.0,0
+2024,51,51730,"Petersburg City, Virginia",940.0,9643.0,1009.0,0
+2020,51,51735,"Poquoson City, Virginia",245.0,1219.0,646.0,0
+2021,51,51735,"Poquoson City, Virginia",257.0,1253.0,674.0,0
+2022,51,51735,"Poquoson City, Virginia",279.0,1325.0,723.0,0
+2023,51,51735,"Poquoson City, Virginia",261.0,1347.0,799.0,0
+2024,51,51735,"Poquoson City, Virginia",250.0,1324.0,851.0,0
+2020,51,51740,"Portsmouth City, Virginia",1770.0,23640.0,912.0,0
+2021,51,51740,"Portsmouth City, Virginia",1796.0,23995.0,992.0,0
+2022,51,51740,"Portsmouth City, Virginia",1909.0,24389.0,1094.0,0
+2023,51,51740,"Portsmouth City, Virginia",1838.0,25197.0,1070.0,0
+2024,51,51740,"Portsmouth City, Virginia",1793.0,25163.0,1074.0,0
+2020,51,51750,"Radford City, Virginia",311.0,3175.0,866.0,0
+2021,51,51750,"Radford City, Virginia",316.0,3286.0,910.0,0
+2022,51,51750,"Radford City, Virginia",331.0,3427.0,940.0,0
+2023,51,51750,"Radford City, Virginia",328.0,3443.0,992.0,0
+2024,51,51750,"Radford City, Virginia",334.0,3444.0,1041.0,0
+2020,51,51760,"Richmond City, Virginia",7787.0,106994.0,1400.0,0
+2021,51,51760,"Richmond City, Virginia",8081.0,109816.0,1443.0,0
+2022,51,51760,"Richmond City, Virginia",8914.0,115768.0,1505.0,0
+2023,51,51760,"Richmond City, Virginia",8862.0,120989.0,1538.0,0
+2024,51,51760,"Richmond City, Virginia",8824.0,124895.0,1604.0,0
+2020,51,51770,"Roanoke City, Virginia",3290.0,53859.0,996.0,0
+2021,51,51770,"Roanoke City, Virginia",3326.0,54742.0,1048.0,0
+2022,51,51770,"Roanoke City, Virginia",3553.0,55817.0,1098.0,0
+2023,51,51770,"Roanoke City, Virginia",3458.0,56249.0,1147.0,0
+2024,51,51770,"Roanoke City, Virginia",3428.0,57043.0,1202.0,0
+2020,51,51775,"Salem City, Virginia",978.0,14738.0,943.0,0
+2021,51,51775,"Salem City, Virginia",995.0,14728.0,995.0,0
+2022,51,51775,"Salem City, Virginia",1065.0,14817.0,1052.0,0
+2023,51,51775,"Salem City, Virginia",1059.0,16398.0,1091.0,0
+2024,51,51775,"Salem City, Virginia",1068.0,16445.0,1146.0,0
+2020,51,51790,"Staunton City, Virginia",803.0,7966.0,709.0,0
+2021,51,51790,"Staunton City, Virginia",828.0,8300.0,743.0,0
+2022,51,51790,"Staunton City, Virginia",890.0,8610.0,796.0,0
+2023,51,51790,"Staunton City, Virginia",865.0,8657.0,828.0,0
+2024,51,51790,"Staunton City, Virginia",847.0,8641.0,848.0,0
+2020,51,51800,"Suffolk City, Virginia",1810.0,25539.0,1032.0,0
+2021,51,51800,"Suffolk City, Virginia",1905.0,26964.0,1084.0,0
+2022,51,51800,"Suffolk City, Virginia",2107.0,28149.0,1076.0,0
+2023,51,51800,"Suffolk City, Virginia",2059.0,28105.0,1130.0,0
+2024,51,51800,"Suffolk City, Virginia",2018.0,29075.0,1206.0,0
+2020,51,51810,"Virginia Beach City, Virginia",12305.0,139878.0,915.0,0
+2021,51,51810,"Virginia Beach City, Virginia",12793.0,144334.0,953.0,0
+2022,51,51810,"Virginia Beach City, Virginia",13845.0,147192.0,1002.0,0
+2023,51,51810,"Virginia Beach City, Virginia",13613.0,149747.0,1038.0,0
+2024,51,51810,"Virginia Beach City, Virginia",13650.0,150167.0,1096.0,0
+2020,51,51820,"Waynesboro City, Virginia",714.0,7903.0,798.0,0
+2021,51,51820,"Waynesboro City, Virginia",723.0,7977.0,836.0,0
+2022,51,51820,"Waynesboro City, Virginia",774.0,8211.0,860.0,0
+2023,51,51820,"Waynesboro City, Virginia",748.0,8472.0,891.0,0
+2024,51,51820,"Waynesboro City, Virginia",742.0,8433.0,937.0,0
+2020,51,51830,"Williamsburg City, Virginia",476.0,7604.0,779.0,0
+2021,51,51830,"Williamsburg City, Virginia",488.0,8047.0,856.0,0
+2022,51,51830,"Williamsburg City, Virginia",523.0,7679.0,851.0,0
+2023,51,51830,"Williamsburg City, Virginia",531.0,8486.0,883.0,0
+2024,51,51830,"Williamsburg City, Virginia",516.0,8356.0,874.0,0
+2020,51,51840,"Winchester City, Virginia",1431.0,21353.0,1001.0,0
+2021,51,51840,"Winchester City, Virginia",1451.0,21791.0,1041.0,0
+2022,51,51840,"Winchester City, Virginia",1515.0,21182.0,1075.0,0
+2023,51,51840,"Winchester City, Virginia",1457.0,21322.0,1104.0,0
+2024,51,51840,"Winchester City, Virginia",1410.0,21378.0,1160.0,0
